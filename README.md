@@ -8,6 +8,7 @@
 - 👨‍💻 I'm a Computer Engineering student, currently in my 4th year — just one more to go!
 - 🌱 I'm currently learning about Machine Learning and Data Science.
 - 📚 I love math, learning new things, and solving problems through code.
+- 📩 Contact to me through: <a href="ulisessanchez150@gmail.com">ulisessanchez150@gmail.com</a>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> **Languages**
 
