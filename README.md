@@ -10,7 +10,7 @@
 - 📚 I love math, learning new things, and solving problems through code.
 - 📩 Feel free to reach out at: <a href="ulisessanchez150@gmail.com">ulisessanchez150@gmail.com</a>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> **Languages**
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> **Languages**
 
 <p>
   <p align="center">
@@ -20,22 +20,12 @@
   </p>
 </p>
 
-# Check out my social media
+# **Check out my social media**
 <a href="https://www.instagram.com/ulisessanchez150/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
 
-<h3 align="left">📈 Stats:</h3>
- 
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=UlisesJSanchez\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=UlisesJSanchez&theme=midnight-purple)](https://git.io/streak-stats)
+# 📊 **GitHub Stats**
 
-</div>
-
-<br><br>
-
-<h3 align="left">Activity:</h3>
-
-![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=UlisesJSanchez&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  ![](https://github-readme-stats.vercel.app/api?username=UlisesJSanchez&show_icons=true&theme=dracula) 
+  [![](https://github-readme-streak-stats.herokuapp.com/?user=UlisesJSanchez&theme=dracula)](https://git.io/streak-stats)  
