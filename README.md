@@ -27,5 +27,9 @@
 
 # 📊 **GitHub Stats**
 
-  ![](https://github-readme-stats.vercel.app/api?username=UlisesJSanchez&show_icons=true&theme=dracula) 
-  [![](https://github-readme-streak-stats.herokuapp.com/?user=UlisesJSanchez&theme=dracula)](https://git.io/streak-stats)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UlisesJSanchez&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=UlisesJSanchez&theme=dracula" alt="GitHub Streak" />
+  </a>
+</p>
