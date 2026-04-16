@@ -5,7 +5,7 @@
 </p>
 
 <img src="https://media.tenor.com/kayOCAyfCrsAAAAi/mario-star.gif" width="25"> **About me**
-- 👨‍💻 I'm a Computer Engineering student, currently in my 4th year — just one more to go!.
+- 👨‍💻 I'm a Computer Engineering student, currently in my last year!!.
 - 🌱 I'm currently learning about Machine Learning, Data Science and Data Bases.
 - 📚 I love math, learning new things, and solving problems through code.
 - 📩 Feel free to reach out at: <a href="ulisessanchez150@gmail.com">ulisessanchez150@gmail.com</a>
